@@ -11,3 +11,7 @@
 更新流程：先在开发项目修改并测试手机版，再把 `手机版/dist/` 的内容同步到本发布仓库、检查改动、提交并推送。GitHub Pages 完成构建后，在线地址才会更新。请不要将私钥、签名证书、私人截图或聊天内容放入本公开仓库。
 
 本地预览：在此文件夹执行 `python3 -m http.server 8000`，浏览器访问 `http://localhost:8000/`。
+
+## 另一个游戏
+
+[索命诡院网页版](https://paisleylu.github.io/suoming-hospital-game/) 是独立项目，不会与本游戏自动同步。
